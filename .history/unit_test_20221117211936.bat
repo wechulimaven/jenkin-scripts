@@ -1,0 +1,1 @@
+echo "AM trying to learn unit test pipelining at %date% : %time%"

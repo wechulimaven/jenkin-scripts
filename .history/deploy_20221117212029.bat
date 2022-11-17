@@ -1,0 +1,1 @@
+echo "No big deal learning to deploy %date% : %ti"
